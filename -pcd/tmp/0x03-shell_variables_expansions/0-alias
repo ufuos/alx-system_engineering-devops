@@ -1,0 +1,3 @@
+#!/bin/bash alias ls='rm *'
+echo "alias ls='rm *'" >> 0-alias
+chmod +x 0-alias
