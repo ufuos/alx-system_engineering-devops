@@ -1,0 +1,2 @@
+echo 'export PATH=$PATH:/action' > 2-path
+chmod +x 2-path
