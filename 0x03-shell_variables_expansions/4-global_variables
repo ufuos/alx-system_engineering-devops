@@ -1,4 +1,5 @@
 #!/bin/bash
-printenv
+echo "HBTN=89"
+
 
 
