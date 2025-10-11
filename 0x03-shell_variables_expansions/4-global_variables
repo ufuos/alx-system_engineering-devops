@@ -1,3 +1,4 @@
 #!/bin/bash
-export HBTN=89 && printenv HBTN
+printenv
+
 
